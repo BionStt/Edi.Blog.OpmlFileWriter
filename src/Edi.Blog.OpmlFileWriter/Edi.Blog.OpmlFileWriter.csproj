@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageProjectUrl>https://edi.wang</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/EdiWang/Edi.Blog.OpmlFileWriter</RepositoryUrl>
+    <PackageTags>OPML, Blog, RSS</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Edi Wang</Authors>
+    <Company>edi.wang</Company>
+  </PropertyGroup>
+
+</Project>
