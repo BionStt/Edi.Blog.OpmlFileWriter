@@ -1,6 +1,8 @@
 # Edi.Blog.OpmlFileWriter
 OPML File writer used in my blog (ASP.NET Core)
 
+[![Build status](https://dev.azure.com/ediwang/EdiBlog/_apis/build/status/EdiBlog-.NET%20Desktop-CI)](https://dev.azure.com/ediwang/EdiBlog/_build/latest?definitionId=36)
+
 ## Usage
 
 Install via NuGet
